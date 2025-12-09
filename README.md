@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM) - Completed Starter Project
+Records Manager (RM) - Completed Starter Project
 
 This repository contains a complete Java SE console application for the CCRM assignment.
 It demonstrates required concepts: packages, OOP, enums, Singleton & Builder patterns,
