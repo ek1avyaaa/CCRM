@@ -1,6 +1,6 @@
 Records Manager (RM) - Completed Starter Project
 
-This repository contains a complete Java SE console application for the CCRM assignment.
+This repository contains a complete Java SE console application.
 It demonstrates required concepts: packages, OOP, enums, Singleton & Builder patterns,
 NIO.2 usage, Streams, custom exceptions, basic CLI, backup utilities, and transcript/GPA computation.
 
